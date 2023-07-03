@@ -1,2 +1,2 @@
-# machine_learing
-This is python learning repository
+# Machine Learing
+Machine Learing Projects & Research Work
